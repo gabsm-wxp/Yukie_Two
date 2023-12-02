@@ -12,6 +12,6 @@
 
 ## 👥 Contributors
 
-<img align="center" src="assets/credits/druzinhu.png?raw=true" width="30"></img> <a href="https://github.com/Druzinhu/">Druzinhu</a> - **Development**
+<img align="center" src="assets/credits/druzinhu.png?raw=true" width="30"></img> <a href="https://github.com/gabsm-wxp/">gabsm-wxp</a> - **Development**
 
 <img align="center" src="assets/credits/trywesley.png?raw=true" width="30"></img> <a href="https://github.com/weberww0/">weberww0</a> - **Contributed with tests, ideas and bug fixes**
